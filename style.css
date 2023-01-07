@@ -9,7 +9,9 @@
     background-image: url(images/banner1.png);
     
 }
+
 /* ul bar container styles */
+
 .ul-bar-containers{
     display: flex;
     padding-top: 20px;
@@ -60,7 +62,7 @@
     
     
 }
-/* Achievement styles */
+/* achievement styles */
 
 .achievement-title{
     font-weight: 700;
@@ -211,8 +213,10 @@ ul.list{
     display: flex;
     justify-content: center;
 
-
 }
+
+/* call now button styles */
+
 .btn-call-now{
     padding: 13px ;
     border: none;
