@@ -9,13 +9,14 @@
     background-image: url(images/banner1.png);
     
 }
-.nav-bar-containers{
+/* ul bar container styles */
+.ul-bar-containers{
     display: flex;
     padding-top: 20px;
     padding-left: 700px;
     justify-content: space-around;
     
-    color: black;
+    color: #F15B22;
 }
 .items{
     display: flex;
@@ -49,11 +50,12 @@
 }
 .btn-banner{
     font-weight: 400;
+    font-weight: bold;
     font-size: 12px;
     color: azure;
     background-color: #FF5959;
     margin: 30px 150px 170px 1155px;
-    padding: 10px 18px;
+    padding: 10px 13px;
     border: none;
     
     
@@ -65,6 +67,9 @@
     font-size: 45px;
     text-align: center;
     margin-top: 150px;
+    background-image: url(images/gradient1.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .achievement-description{
     font-weight: 400;
@@ -252,14 +257,15 @@ ul.list{
     font-weight: 600;
     font-size: 25px;
     margin-bottom: 30px;
-    m
+    
 }
 .form-detail{
     margin-bottom: 20px;
 }
    
 .email{
-    padding-top: 5px;
+    margin-top: 8px;
+    padding-top: 9px;
     padding-bottom: 20px;
 
 }
